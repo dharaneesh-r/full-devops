@@ -6,7 +6,7 @@ const MainPage = () => {
   return (
     <div className="bg-black h-screen place-content-center">
       <div className="text-white  font-semibold text-center text-3xl">
-        DEVOPS FULL COURSE{" "}
+        DEVOPS FULL TUTORIAL{" "}
       </div>
       <div className="text-center my-10">
         <Button variant="outlined" onClick={() => Navigate("/article")}>
